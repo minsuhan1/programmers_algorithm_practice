@@ -18,3 +18,4 @@ def solution(answers):
     if(a3 == winner):
         answer.append(3)
     return answer
+ 
